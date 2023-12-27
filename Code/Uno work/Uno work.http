@@ -1,0 +1,6 @@
+@Uno_work_HostAddress = http://localhost:5186
+
+GET {{Uno_work_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
