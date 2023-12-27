@@ -136,3 +136,142 @@ D:\Uno work\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\Uno work\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\Uno work\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Uno work\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\appsettings.Development.json
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\appsettings.json
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Uno work.exe
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Uno work.deps.json
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Uno work.runtimeconfig.json
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Uno work.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Uno work.pdb
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Azure.Core.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Azure.Identity.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Humanizer.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\System.CodeDom.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\System.Memory.Data.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\Uno work.csproj.AssemblyReference.cache
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\Uno work.GeneratedMSBuildEditorConfig.editorconfig
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\Uno work.AssemblyInfoInputs.cache
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\Uno work.AssemblyInfo.cs
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\Uno work.csproj.CoreCompileInputs.cache
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\Uno work.MvcApplicationPartsAssemblyInfo.cs
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\Uno work.MvcApplicationPartsAssemblyInfo.cache
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\Uno work.sourcelink.json
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\staticwebassets.build.json
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\staticwebassets.development.json
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\staticwebassets\msbuild.Uno work.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\staticwebassets\msbuild.build.Uno work.props
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Uno work.props
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Uno work.props
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\staticwebassets.pack.json
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\scopedcss\bundle\Uno work.styles.css
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\Uno work.csproj.CopyComplete
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\Uno work.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\refint\Uno work.dll
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\Uno work.pdb
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\Uno work.genruntimeconfig.cache
+D:\AKADEMSKI MATERIJAL\AIPS PROJEKAT\uno\Code\Uno work\obj\Debug\net8.0\ref\Uno work.dll
