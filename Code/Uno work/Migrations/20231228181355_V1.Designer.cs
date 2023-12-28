@@ -4,6 +4,7 @@ using JWTAuthentication.NET8._0.Auth;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Uno_work.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231228181355_V1")]
+    partial class V1
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -21,31 +24,6 @@ namespace Uno_work.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
-            modelBuilder.Entity("GameState", b =>
-                {
-                    b.Property<string>("GameId")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<string>("CurrentCardInPlay")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("CurrentPlayerId")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("DiscardPile")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("DrawPile")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("GameEnded")
-                        .HasColumnType("bit");
-
-                    b.HasKey("GameId");
-
-                    b.ToTable("GameStates");
-                });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
                 {
@@ -245,24 +223,6 @@ namespace Uno_work.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("PlayerState", b =>
-                {
-                    b.Property<string>("PlayerId")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<string>("GameStateGameId")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<string>("Hand")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("PlayerId");
-
-                    b.HasIndex("GameStateGameId");
-
-                    b.ToTable("PlayerState");
-                });
-
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -312,18 +272,6 @@ namespace Uno_work.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("PlayerState", b =>
-                {
-                    b.HasOne("GameState", null)
-                        .WithMany("PlayerStates")
-                        .HasForeignKey("GameStateGameId");
-                });
-
-            modelBuilder.Entity("GameState", b =>
-                {
-                    b.Navigation("PlayerStates");
                 });
 #pragma warning restore 612, 618
         }
