@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AKADEMSKI MATERIJAL\\AIPS PROJEKAT\\uno\\Code\\Uno\\Uno.csproj": {}
+    "D:\\FAKS\\AIPS\\Repo\\uno\\Code\\Uno\\Uno.csproj": {}
   },
   "projects": {
-    "D:\\AKADEMSKI MATERIJAL\\AIPS PROJEKAT\\uno\\Code\\Uno\\Uno.csproj": {
+    "D:\\FAKS\\AIPS\\Repo\\uno\\Code\\Uno\\Uno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AKADEMSKI MATERIJAL\\AIPS PROJEKAT\\uno\\Code\\Uno\\Uno.csproj",
+        "projectUniqueName": "D:\\FAKS\\AIPS\\Repo\\uno\\Code\\Uno\\Uno.csproj",
         "projectName": "Uno",
-        "projectPath": "D:\\AKADEMSKI MATERIJAL\\AIPS PROJEKAT\\uno\\Code\\Uno\\Uno.csproj",
+        "projectPath": "D:\\FAKS\\AIPS\\Repo\\uno\\Code\\Uno\\Uno.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "D:\\AKADEMSKI MATERIJAL\\AIPS PROJEKAT\\uno\\Code\\Uno\\obj\\",
+        "outputPath": "D:\\FAKS\\AIPS\\Repo\\uno\\Code\\Uno\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Visual Studio Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,13 +38,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.SignalR.Client": {
+            "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[8.0.1, )"
+              "version": "[8.0.0, )"
             },
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[1.19.5, )"
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
@@ -72,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Stefan\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
